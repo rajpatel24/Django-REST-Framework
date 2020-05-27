@@ -1,1 +1,9 @@
 pipfile.lock
+.idea/
+myproject/myproject/settings/local.py
+
+myproject/db.sqlite3
+
+myproject/__pycache__/
+
+myproject/settings/__pycache__/
