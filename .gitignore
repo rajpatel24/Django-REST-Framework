@@ -7,3 +7,6 @@ myproject/db.sqlite3
 myproject/__pycache__/
 
 myproject/settings/__pycache__/
+
+myproject/webapp/__pycache__
+
